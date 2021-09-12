@@ -14,7 +14,7 @@ But where should the gates be placed? Initially the first gate was placed at lev
 ## **Business Task**
 
 1. Where should the gates be placed?
-2. How 1-day and 7-day retention differs between gate being at level 30 and level 40??
+2. How 1-day and 7-day retention differ between gate being at level 30 and level 40?
 3. What is the probability of difference between the two AB-groups?
 
 
