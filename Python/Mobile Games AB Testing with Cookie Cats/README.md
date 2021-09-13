@@ -1,7 +1,7 @@
 ## Mobile Games A/B Testing with Cookie Cats </br>
 Tina Huang 2021-09-11 
-
-
+</br>
+</br>
 Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. 
 
 ![image](https://user-images.githubusercontent.com/61902789/132988029-06bc2a04-e5a9-4fc0-b91b-87e59378ff40.png)
