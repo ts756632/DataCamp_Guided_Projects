@@ -3,7 +3,7 @@ Tina Huang 2022-03-06
 </br>
 </br>
 
-![image](https://user-images.githubusercontent.com/61902789/157248892-ebab5035-042d-4671-8f94-4c38145f7b37.png)
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/61902789/157248892-ebab5035-042d-4671-8f94-4c38145f7b37.png">
 
  New York City (NYC), one of the most-visited cities in the world. As a result, there are many Airbnb listings to meet the high demand 
  for temporary lodging for anywhere between a few nights to many months. 
