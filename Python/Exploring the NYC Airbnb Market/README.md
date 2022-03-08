@@ -1,4 +1,4 @@
-## Mobile Games A/B Testing with Cookie Cats </br>
+## Exploring the NYC Airbnb Market </br>
 Tina Huang 2022-03-06 
 </br>
 </br>
