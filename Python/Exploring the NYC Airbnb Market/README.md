@@ -1,4 +1,4 @@
-## Exploring the NYC Airbnb Market </br>
+## Exploring the NYC Airbnb Market (Ongoing) </br>
 Tina Huang 2022-03-06 
 </br>
 </br>
