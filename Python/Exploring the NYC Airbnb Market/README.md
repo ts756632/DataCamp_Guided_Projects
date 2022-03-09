@@ -22,4 +22,4 @@ Our goals are to convert untidy data into appropriate formats to analyze, and an
 
 ### Tool used:
 #### 1. Python: data clean and analysis 
-#### 2. Tableau: data visualization
+#### 2. Tableau: data visualization (Ongoing)
