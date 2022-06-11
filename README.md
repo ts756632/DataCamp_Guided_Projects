@@ -1,12 +1,14 @@
 # DataCamp_Guided_Projects
 
-In the guided projects, I learn
+In the guided projects, I learn:
 
  - Importing & Cleaning Data
  - Data Manipulation
  - Data Visualization
  - A/B Testing
  
+
+Check out my projects as below:
 
 [**1: Exploring the Bitcoin Cryptocurrency Market**](https://github.com/ts756632/DataCamp_Guided_Projects/tree/main/Python/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 
