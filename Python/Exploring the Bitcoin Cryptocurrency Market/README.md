@@ -16,7 +16,7 @@ In this notebook, we will explore the market capitalization of Bitcoin and other
 
 ## **Business Task**
 
-Our goals are to convert untidy data into appropriate formats to analyze, and answer key questions including:
+Let's explore the cryptocurrency market and answer key questions including:
 
 1. How big is Bitcoin compared with the rest of the cryptocurrencies?
 2. How much can we gain or lose in 24 hours and 7 days in cryptocurrencies market?
