@@ -1,1 +1,23 @@
+## Comparing Search Interest with Google Trends
+
+</br>
+Tina Huang 2022-06-12 
+</br>
+</br>
+
+Kardashians and Jenners, the sisters in particular over the past decade have been especially productive in this regard.
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/61902789/173170852-43037f15-d78f-414d-93d2-ec4aea04fc17.png">
+
+This family tree can be confusing, but we aren't here to explain it. We're here to explore the data underneath the hype, and we'll do it using search interest data from Google Trends. We'll recreate the Google Trends plot to visualize their ups and downs over time, then make a few custom plots of our own. 
+
+
+
+## **Business Task**
+
+We will explore search interest data from Google Trends and find out **is Kim even the most famous sister anymore** ?
+
+
+### Tool used:
+#### 1. Python: data wrangling and visualization 
 
