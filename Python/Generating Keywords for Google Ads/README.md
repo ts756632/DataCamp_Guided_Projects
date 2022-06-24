@@ -28,7 +28,7 @@ The resulting keywords: 'buy sofas', 'sofas buy', 'buy recliners', 'recliners bu
 
 As a final result, we want to have a DataFrame that looks like this:
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/61902789/175509508-1768bbc8-8a6b-4a75-9c56-fad2f070a8a6.png">
+<img width="420" alt="image" src="https://user-images.githubusercontent.com/61902789/175509508-1768bbc8-8a6b-4a75-9c56-fad2f070a8a6.png">
 
 
 
