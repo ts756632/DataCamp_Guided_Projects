@@ -4,9 +4,10 @@ Tina Huang 2022-06-21
 </br>
 </br>
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/61902789/175529949-25efe9f4-9dcb-402a-96ca-4f4c87980e9a.png">
+<img width="500" alt="image" src="(https://user-images.githubusercontent.com/61902789/175531112-58904622-9800-49d5-805f-2723ee4f38ae.png)">
 
 In this project, we will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows.
+
 
 
 
