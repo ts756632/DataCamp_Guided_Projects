@@ -4,7 +4,7 @@ Tina Huang 2022-06-23
 </br>
 </br>
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/61902789/175531654-6e2f0987-4150-47c6-95ed-c9057d3b9297.png">
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/61902789/175531654-6e2f0987-4150-47c6-95ed-c9057d3b9297.png">
 
 This is Aaron Judge. Judge is one of the physically largest players in Major League Baseball standing 6 feet 7 inches (2.01 m) tall and weighing 282 pounds (128 kg). He also hit the hardest home run ever recorded. How do we know this? Statcast.
 
