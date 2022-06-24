@@ -23,5 +23,5 @@ Check out my projects as below:
 [**6: Analyzing TV Data**](https://github.com/ts756632/DataCamp_Guided_Projects/tree/main/Python/Analyzing%20TV%20Data)
 
 [**7: Generating Keywords for Google Ads**](https://github.com/ts756632/DataCamp_Guided_Projects/tree/main/Python/Generating%20Keywords%20for%20Google%20Ads)
-
+Automatically generate keywords for a search engine marketing campaign using Python.
 
